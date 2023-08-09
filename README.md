@@ -1,6 +1,9 @@
 # Rock Paper Scissors
 
 ## Wireframes
+
+More wireframes to come!
+
 Here are the images used to display the Rock, Paper, and Scissors in the DOM.
 ##### Rock
 ![rock](imgs/rock.png)
